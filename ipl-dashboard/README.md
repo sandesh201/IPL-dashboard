@@ -9,13 +9,17 @@ Browse your favorite IPL teams and access their past games details, wins and los
 
 ## Screenshots
 
+
+
 ### Team Page
 
-![Team Page Page](/README/team-page.jpg)
+![team-page](https://user-images.githubusercontent.com/84619577/121302072-c1a1c500-c916-11eb-8cb9-f4045ab9099c.jpg)
+
 
 ### Matches Page
 
-![Matches Page](/README/matches-page.jpg)
+![matches-page](https://user-images.githubusercontent.com/84619577/121302044-b51d6c80-c916-11eb-9273-5fbc1ff7c02e.jpg)
+
 
 ## Technologies
 
